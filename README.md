@@ -49,7 +49,8 @@ My Tampermonkey Scripts.
 
 :heavy_check_mark: 获取阿里云token;\
 :heavy_check_mark: 页面生成身份证号小组件;\
-:heavy_check_mark: 腾讯Tapd复制标题;
+:heavy_check_mark: 腾讯Tapd复制标题;\
+:heavy_check_mark: 夸克网盘-分享按时间倒序排序;
 
 ### [获取阿里云token](https://greasyfork.org/zh-CN/scripts/470260-%E8%8E%B7%E5%8F%96%E9%98%BF%E9%87%8C%E4%BA%91token)
 
@@ -64,9 +65,9 @@ My Tampermonkey Scripts.
 在页面上添加一个生成了虚拟姓名、身份证号、手机号的小组件。
 ![](images/idcard_page_card.png)
 
-### [腾讯Tapd复制标题](https://greasyfork.org/zh-CN/scripts/471192-%E8%85%BE%E8%AE%AFtapd%E5%A4%8D%E5%88%B6%E6%A0%87%E9%A2%98)
+### [夸克网盘-分享按时间倒序排序](https://greasyfork.org/zh-CN/scripts/530361-%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98-%E5%88%86%E4%BA%AB%E6%8C%89%E6%97%B6%E9%97%B4%E5%80%92%E5%BA%8F%E6%8E%92%E5%BA%8F)
 
-👀 查看源码：[tpad_copy_menu.js](js/tpad_copy_menu.js)
+👀 查看源码：[panquark_share_createtime_desc.js](js/panquark_share_createtime_desc.js)
 
 在用户故事和缺陷详情里的复制菜单下新增了两个菜单：
 
@@ -75,6 +76,8 @@ My Tampermonkey Scripts.
 
 ![](images/tpad_copy_menu.png)
 
+### [腾讯Tapd复制标题](https://greasyfork.org/zh-CN/scripts/471192-%E8%85%BE%E8%AE%AFtapd%E5%A4%8D%E5%88%B6%E6%A0%87%E9%A2%98)
+👀 查看源码：[tpad_copy_menu.js](js/tpad_copy_menu.js)
 
 ## :memo: License ##
 
